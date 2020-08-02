@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "circle",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 951789,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9861111111111112,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
